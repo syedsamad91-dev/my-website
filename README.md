@@ -38,6 +38,14 @@ The architecture follows a **3-tier model**:
 * Public access disabled
 
 ---
+## Architecture Diagram
+
+![Secure Multi-Tier Architecture](architecture-diagram.png)
+
+## Web Application Screenshot
+
+![Live Webpage Screenshot](webpage-screenshot.png)
+
 
 ## AWS Services Used
 
