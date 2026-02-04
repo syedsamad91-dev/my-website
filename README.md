@@ -6,7 +6,7 @@ This project demonstrates the implementation of a **Secure Multi-Tier Architectu
 
 The live webpage for this project is hosted at:
 
-🔗 **Application URL:** [https://personalshare91.wixsite.com/abdulsamadcloudsolut](https://personalshare91.wixsite.com/abdulsamadcloudsolut)
+🔗 **Application URL:** [Multi-Tier-App-423453926.eu-north-1.elb.amazonaws.com](https://personalshare91.wixsite.com/abdulsamadcloudsolut)
 
 ---
 
